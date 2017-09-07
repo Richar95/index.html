@@ -1,47 +1,22 @@
-# Windows image file caches
-Thumbs.db
-ehthumbs.db
+<!doctype html>
 
-# Folder config file
-Desktop.ini
+<html lang="en">
 
-# Recycle Bin used on file shares
-$RECYCLE.BIN/
+<head>
+	
+       <meta charset="UTF-8">
 
-# Windows Installer files
-*.cab
-*.msi
-*.msm
-*.msp
+       <title>index</title>
 
-# Windows shortcuts
-*.lnk
+</head>
 
-# =========================
-# Operating System Files
-# =========================
+<body>
 
-# OSX
-# =========================
+	<p>Soy Andrés Guerrero Rodríguez, estudiante de Ingeniería de Sistemas en la ciudad de Bogotá CEAD JAG
+	
+        </body>
 
-.DS_Store
-.AppleDouble
-.LSOverride
-
-# Thumbnails
-._*
-
-# Files that might appear in the root of a volume
-.DocumentRevisions-V100
-.fseventsd
-.Spotlight-V100
-.TemporaryItems
-.Trashes
-.VolumeIcon.icns
-
-# Directories potentially created on remote AFP share
-.AppleDB
-.AppleDesktop
-Network Trash Folder
-Temporary Items
-.apdisk
+	</html>
+	
+        https://github.com/AndresGuerreroR/Index.git
+	
